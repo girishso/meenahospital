@@ -68,7 +68,6 @@ header {
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   background {background-color:#FFFFF0;} url(../images/bk1.png) repeat-x;
-  background-size: cover;
   border-bottom: solid 1px #275da1;
 	height: 110px;
 }
